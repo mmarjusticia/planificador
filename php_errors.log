@@ -1,0 +1,316 @@
+[14-Feb-2016 13:30:14 UTC] PHP Warning:  require(../clases/AutoCarga.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:30:14 UTC] PHP Stack trace:
+[14-Feb-2016 13:30:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:30:14 UTC] PHP Fatal error:  require(): Failed opening required '../clases/AutoCarga.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:30:14 UTC] PHP Stack trace:
+[14-Feb-2016 13:30:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:30:20 UTC] PHP Warning:  require(../clases/AutoCarga.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:30:20 UTC] PHP Stack trace:
+[14-Feb-2016 13:30:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:30:20 UTC] PHP Fatal error:  require(): Failed opening required '../clases/AutoCarga.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:30:20 UTC] PHP Stack trace:
+[14-Feb-2016 13:30:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:30:20 UTC] PHP Warning:  require(../clases/AutoCarga.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:30:20 UTC] PHP Stack trace:
+[14-Feb-2016 13:30:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:30:20 UTC] PHP Fatal error:  require(): Failed opening required '../clases/AutoCarga.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:30:20 UTC] PHP Stack trace:
+[14-Feb-2016 13:30:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:52:01 UTC] PHP Warning:  require(../clases/AutoCarga.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:52:01 UTC] PHP Stack trace:
+[14-Feb-2016 13:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:52:01 UTC] PHP Fatal error:  require(): Failed opening required '../clases/AutoCarga.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:52:01 UTC] PHP Stack trace:
+[14-Feb-2016 13:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:52:37 UTC] PHP Warning:  require(../clases/AutoCarga.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:52:37 UTC] PHP Stack trace:
+[14-Feb-2016 13:52:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:52:37 UTC] PHP Fatal error:  require(): Failed opening required '../clases/AutoCarga.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:52:37 UTC] PHP Stack trace:
+[14-Feb-2016 13:52:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:55:19 UTC] PHP Warning:  require(../clases/AutoCarga.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:55:19 UTC] PHP Stack trace:
+[14-Feb-2016 13:55:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:55:19 UTC] PHP Fatal error:  require(): Failed opening required '../clases/AutoCarga.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:55:19 UTC] PHP Stack trace:
+[14-Feb-2016 13:55:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:55:55 UTC] PHP Warning:  require(../clases/AutoCarga.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:55:55 UTC] PHP Stack trace:
+[14-Feb-2016 13:55:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:55:55 UTC] PHP Fatal error:  require(): Failed opening required '../clases/AutoCarga.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:55:55 UTC] PHP Stack trace:
+[14-Feb-2016 13:55:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:57:21 UTC] PHP Warning:  require(../clases/AutoCarga.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:57:21 UTC] PHP Stack trace:
+[14-Feb-2016 13:57:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:57:21 UTC] PHP Fatal error:  require(): Failed opening required '../clases/AutoCarga.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 2
+[14-Feb-2016 13:57:21 UTC] PHP Stack trace:
+[14-Feb-2016 13:57:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 13:59:30 UTC] PHP Fatal error:  Call to undefined function ManageUsuario() in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 6
+[14-Feb-2016 13:59:30 UTC] PHP Stack trace:
+[14-Feb-2016 13:59:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[14-Feb-2016 14:00:56 UTC] PHP Fatal error:  Class 'Request' not found in /home/ubuntu/workspace/ajax/ajaxLogin.php on line 9
+[14-Feb-2016 14:00:56 UTC] PHP Stack trace:
+[14-Feb-2016 14:00:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[15-Feb-2016 15:44:57 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/ubuntu/workspace/ajax/ajaxReserva.php on line 8
+[15-Feb-2016 15:44:57 UTC] PHP Stack trace:
+[15-Feb-2016 15:44:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxReserva.php:0
+[15-Feb-2016 16:39:46 UTC] PHP Parse error:  syntax error, unexpected ''}'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/ajax/ajaxReservados.php on line 14
+[16-Feb-2016 09:35:43 UTC] PHP Fatal error:  Call to undefined method ManageReserva::getEmail() in /home/ubuntu/workspace/ajax/ajaxReserva.php on line 14
+[16-Feb-2016 09:35:43 UTC] PHP Stack trace:
+[16-Feb-2016 09:35:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxReserva.php:0
+[16-Feb-2016 09:36:19 UTC] PHP Fatal error:  Call to undefined method ManageReserva::getEmail() in /home/ubuntu/workspace/ajax/ajaxReserva.php on line 14
+[16-Feb-2016 09:36:19 UTC] PHP Stack trace:
+[16-Feb-2016 09:36:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxReserva.php:0
+[16-Feb-2016 10:14:52 UTC] PHP Fatal error:  Call to undefined method Reserva::getReserva() in /home/ubuntu/workspace/clases/ManageReserva.php on line 43
+[16-Feb-2016 10:14:52 UTC] PHP Stack trace:
+[16-Feb-2016 10:14:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxReserva.php:0
+[16-Feb-2016 10:14:52 UTC] PHP   2. ManageReserva->set() /home/ubuntu/workspace/ajax/ajaxReserva.php:22
+[16-Feb-2016 10:15:27 UTC] PHP Fatal error:  Call to undefined method Reserva::getReserva() in /home/ubuntu/workspace/clases/ManageReserva.php on line 43
+[16-Feb-2016 10:15:27 UTC] PHP Stack trace:
+[16-Feb-2016 10:15:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxReserva.php:0
+[16-Feb-2016 10:15:27 UTC] PHP   2. ManageReserva->set() /home/ubuntu/workspace/ajax/ajaxReserva.php:22
+[19-Feb-2016 17:40:17 UTC] PHP Catchable fatal error:  Argument 1 passed to ManageEspera::insert() must be an instance of Espera, null given, called in /home/ubuntu/workspace/ajax/ajaxListaEspera.php on line 26 and defined in /home/ubuntu/workspace/clases/ManageEspera.php on line 47
+[19-Feb-2016 17:40:17 UTC] PHP Stack trace:
+[19-Feb-2016 17:40:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[19-Feb-2016 17:40:17 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:26
+[19-Feb-2016 17:40:34 UTC] PHP Catchable fatal error:  Argument 1 passed to ManageEspera::insert() must be an instance of Espera, null given, called in /home/ubuntu/workspace/ajax/ajaxListaEspera.php on line 26 and defined in /home/ubuntu/workspace/clases/ManageEspera.php on line 47
+[19-Feb-2016 17:40:34 UTC] PHP Stack trace:
+[19-Feb-2016 17:40:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[19-Feb-2016 17:40:34 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:26
+[19-Feb-2016 17:41:13 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/ubuntu/workspace/clases/DataBase.php on line 41
+[19-Feb-2016 17:41:13 UTC] PHP Stack trace:
+[19-Feb-2016 17:41:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[19-Feb-2016 17:41:13 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:26
+[19-Feb-2016 17:41:13 UTC] PHP   3. DataBase->insert() /home/ubuntu/workspace/clases/ManageEspera.php:53
+[19-Feb-2016 17:41:13 UTC] PHP   4. DataBase->send() /home/ubuntu/workspace/clases/DataBase.php:97
+[19-Feb-2016 17:41:13 UTC] PHP   5. PDOStatement->execute() /home/ubuntu/workspace/clases/DataBase.php:41
+[19-Feb-2016 17:43:25 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/ubuntu/workspace/clases/DataBase.php on line 41
+[19-Feb-2016 17:43:25 UTC] PHP Stack trace:
+[19-Feb-2016 17:43:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[19-Feb-2016 17:43:25 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:26
+[19-Feb-2016 17:43:25 UTC] PHP   3. DataBase->insert() /home/ubuntu/workspace/clases/ManageEspera.php:53
+[19-Feb-2016 17:43:25 UTC] PHP   4. DataBase->send() /home/ubuntu/workspace/clases/DataBase.php:97
+[19-Feb-2016 17:43:25 UTC] PHP   5. PDOStatement->execute() /home/ubuntu/workspace/clases/DataBase.php:41
+[19-Feb-2016 17:45:41 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/ubuntu/workspace/clases/DataBase.php on line 41
+[19-Feb-2016 17:45:41 UTC] PHP Stack trace:
+[19-Feb-2016 17:45:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[19-Feb-2016 17:45:41 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:26
+[19-Feb-2016 17:45:41 UTC] PHP   3. DataBase->insert() /home/ubuntu/workspace/clases/ManageEspera.php:53
+[19-Feb-2016 17:45:41 UTC] PHP   4. DataBase->send() /home/ubuntu/workspace/clases/DataBase.php:97
+[19-Feb-2016 17:45:41 UTC] PHP   5. PDOStatement->execute() /home/ubuntu/workspace/clases/DataBase.php:41
+[19-Feb-2016 17:50:28 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/ubuntu/workspace/clases/DataBase.php on line 41
+[19-Feb-2016 17:50:28 UTC] PHP Stack trace:
+[19-Feb-2016 17:50:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxReservados.php:0
+[19-Feb-2016 17:50:28 UTC] PHP   2. ManageReserva->getListJson() /home/ubuntu/workspace/ajax/ajaxReservados.php:13
+[19-Feb-2016 17:50:28 UTC] PHP   3. ManageReserva->getList() /home/ubuntu/workspace/clases/ManageReserva.php:75
+[19-Feb-2016 17:50:28 UTC] PHP   4. DataBase->select() /home/ubuntu/workspace/clases/ManageReserva.php:64
+[19-Feb-2016 17:50:28 UTC] PHP   5. DataBase->send() /home/ubuntu/workspace/clases/DataBase.php:156
+[19-Feb-2016 17:50:40 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/ubuntu/workspace/clases/DataBase.php on line 41
+[19-Feb-2016 17:50:40 UTC] PHP Stack trace:
+[19-Feb-2016 17:50:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxReservados.php:0
+[19-Feb-2016 17:50:40 UTC] PHP   2. ManageReserva->getListJson() /home/ubuntu/workspace/ajax/ajaxReservados.php:13
+[19-Feb-2016 17:50:40 UTC] PHP   3. ManageReserva->getList() /home/ubuntu/workspace/clases/ManageReserva.php:75
+[19-Feb-2016 17:50:40 UTC] PHP   4. DataBase->select() /home/ubuntu/workspace/clases/ManageReserva.php:64
+[19-Feb-2016 17:50:40 UTC] PHP   5. DataBase->send() /home/ubuntu/workspace/clases/DataBase.php:156
+[19-Feb-2016 17:50:46 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/ubuntu/workspace/clases/DataBase.php on line 41
+[19-Feb-2016 17:50:46 UTC] PHP Stack trace:
+[19-Feb-2016 17:50:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxReservados.php:0
+[19-Feb-2016 17:50:46 UTC] PHP   2. ManageReserva->getListJson() /home/ubuntu/workspace/ajax/ajaxReservados.php:13
+[19-Feb-2016 17:50:46 UTC] PHP   3. ManageReserva->getList() /home/ubuntu/workspace/clases/ManageReserva.php:75
+[19-Feb-2016 17:50:46 UTC] PHP   4. DataBase->select() /home/ubuntu/workspace/clases/ManageReserva.php:64
+[19-Feb-2016 17:50:46 UTC] PHP   5. DataBase->send() /home/ubuntu/workspace/clases/DataBase.php:156
+[19-Feb-2016 17:50:57 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/ubuntu/workspace/clases/DataBase.php on line 41
+[19-Feb-2016 17:50:57 UTC] PHP Stack trace:
+[19-Feb-2016 17:50:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[19-Feb-2016 17:50:57 UTC] PHP   2. ManageUsuario->get() /home/ubuntu/workspace/ajax/ajaxLogin.php:9
+[19-Feb-2016 17:50:57 UTC] PHP   3. DataBase->select() /home/ubuntu/workspace/clases/ManageUsuario.php:14
+[19-Feb-2016 17:50:57 UTC] PHP   4. DataBase->send() /home/ubuntu/workspace/clases/DataBase.php:156
+[19-Feb-2016 17:51:00 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/ubuntu/workspace/clases/DataBase.php on line 41
+[19-Feb-2016 17:51:00 UTC] PHP Stack trace:
+[19-Feb-2016 17:51:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[19-Feb-2016 17:51:00 UTC] PHP   2. ManageUsuario->get() /home/ubuntu/workspace/ajax/ajaxLogin.php:9
+[19-Feb-2016 17:51:00 UTC] PHP   3. DataBase->select() /home/ubuntu/workspace/clases/ManageUsuario.php:14
+[19-Feb-2016 17:51:00 UTC] PHP   4. DataBase->send() /home/ubuntu/workspace/clases/DataBase.php:156
+[19-Feb-2016 17:53:27 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/ubuntu/workspace/clases/DataBase.php on line 41
+[19-Feb-2016 17:53:27 UTC] PHP Stack trace:
+[19-Feb-2016 17:53:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxLogin.php:0
+[19-Feb-2016 17:53:27 UTC] PHP   2. ManageUsuario->get() /home/ubuntu/workspace/ajax/ajaxLogin.php:9
+[19-Feb-2016 17:53:27 UTC] PHP   3. DataBase->select() /home/ubuntu/workspace/clases/ManageUsuario.php:14
+[19-Feb-2016 17:53:27 UTC] PHP   4. DataBase->send() /home/ubuntu/workspace/clases/DataBase.php:156
+[19-Feb-2016 17:54:42 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/ubuntu/workspace/clases/DataBase.php on line 41
+[19-Feb-2016 17:54:42 UTC] PHP Stack trace:
+[19-Feb-2016 17:54:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[19-Feb-2016 17:54:42 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:26
+[19-Feb-2016 17:54:42 UTC] PHP   3. DataBase->insert() /home/ubuntu/workspace/clases/ManageEspera.php:53
+[19-Feb-2016 17:54:42 UTC] PHP   4. DataBase->send() /home/ubuntu/workspace/clases/DataBase.php:97
+[19-Feb-2016 17:54:42 UTC] PHP   5. PDOStatement->execute() /home/ubuntu/workspace/clases/DataBase.php:41
+[20-Feb-2016 12:04:38 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/ubuntu/workspace/clases/DataBase.php on line 41
+[20-Feb-2016 12:04:38 UTC] PHP Stack trace:
+[20-Feb-2016 12:04:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 12:04:38 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:29
+[20-Feb-2016 12:04:38 UTC] PHP   3. DataBase->insert() /home/ubuntu/workspace/clases/ManageEspera.php:53
+[20-Feb-2016 12:04:38 UTC] PHP   4. DataBase->send() /home/ubuntu/workspace/clases/DataBase.php:98
+[20-Feb-2016 12:04:38 UTC] PHP   5. PDOStatement->execute() /home/ubuntu/workspace/clases/DataBase.php:41
+[20-Feb-2016 12:10:57 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/ubuntu/workspace/clases/DataBase.php on line 41
+[20-Feb-2016 12:10:57 UTC] PHP Stack trace:
+[20-Feb-2016 12:10:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 12:10:57 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:29
+[20-Feb-2016 12:10:57 UTC] PHP   3. DataBase->insert() /home/ubuntu/workspace/clases/ManageEspera.php:53
+[20-Feb-2016 12:10:57 UTC] PHP   4. DataBase->send() /home/ubuntu/workspace/clases/DataBase.php:98
+[20-Feb-2016 12:10:57 UTC] PHP   5. PDOStatement->execute() /home/ubuntu/workspace/clases/DataBase.php:41
+[20-Feb-2016 12:16:24 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/ubuntu/workspace/clases/DataBase.php on line 41
+[20-Feb-2016 12:16:24 UTC] PHP Stack trace:
+[20-Feb-2016 12:16:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 12:16:24 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:32
+[20-Feb-2016 12:16:24 UTC] PHP   3. DataBase->insert() /home/ubuntu/workspace/clases/ManageEspera.php:53
+[20-Feb-2016 12:16:24 UTC] PHP   4. DataBase->send() /home/ubuntu/workspace/clases/DataBase.php:98
+[20-Feb-2016 12:16:24 UTC] PHP   5. PDOStatement->execute() /home/ubuntu/workspace/clases/DataBase.php:41
+[20-Feb-2016 13:55:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/ajax/ajaxListaEspera.php on line 18
+[20-Feb-2016 14:23:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ajax/ajaxListaEspera.php on line 29
+[20-Feb-2016 14:27:12 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/ajax/ajaxListaEspera.php on line 12
+[20-Feb-2016 14:27:12 UTC] PHP Stack trace:
+[20-Feb-2016 14:27:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 14:27:12 UTC] PHP   2. count() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 1 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 2 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 3 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 1 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 2 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 3 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 1 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 2 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 3 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 1 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 2 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 3 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 1 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 2 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 3 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 1 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 2 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 16:16:06 UTC] PHP Warning:  Missing argument 3 for Espera::__construct(), called in /home/ubuntu/workspace/clases/ManageEspera.php on line 67 and defined in /home/ubuntu/workspace/clases/Espera.php on line 4
+[20-Feb-2016 16:16:06 UTC] PHP Stack trace:
+[20-Feb-2016 16:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 16:16:06 UTC] PHP   2. ManageEspera->getList() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:12
+[20-Feb-2016 16:16:06 UTC] PHP   3. Espera->__construct() /home/ubuntu/workspace/clases/ManageEspera.php:67
+[20-Feb-2016 17:20:57 UTC] PHP Catchable fatal error:  Argument 1 passed to ManageEspera::insert() must be an instance of Espera, null given, called in /home/ubuntu/workspace/ajax/ajaxListaEspera.php on line 32 and defined in /home/ubuntu/workspace/clases/ManageEspera.php on line 48
+[20-Feb-2016 17:20:57 UTC] PHP Stack trace:
+[20-Feb-2016 17:20:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 17:20:57 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:32
+[20-Feb-2016 17:25:21 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/ajax/ajaxListaEspera.php on line 33
+[20-Feb-2016 18:40:03 UTC] PHP Catchable fatal error:  Argument 1 passed to ManageEspera::insert() must be an instance of Espera, null given, called in /home/ubuntu/workspace/ajax/ajaxListaEspera.php on line 31 and defined in /home/ubuntu/workspace/clases/ManageEspera.php on line 48
+[20-Feb-2016 18:40:03 UTC] PHP Stack trace:
+[20-Feb-2016 18:40:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 18:40:03 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:31
+[20-Feb-2016 18:40:40 UTC] PHP Catchable fatal error:  Argument 1 passed to ManageEspera::insert() must be an instance of Espera, null given, called in /home/ubuntu/workspace/ajax/ajaxListaEspera.php on line 31 and defined in /home/ubuntu/workspace/clases/ManageEspera.php on line 48
+[20-Feb-2016 18:40:40 UTC] PHP Stack trace:
+[20-Feb-2016 18:40:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 18:40:40 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:31
+[20-Feb-2016 18:42:42 UTC] PHP Catchable fatal error:  Argument 1 passed to ManageEspera::insert() must be an instance of Espera, null given, called in /home/ubuntu/workspace/ajax/ajaxListaEspera.php on line 31 and defined in /home/ubuntu/workspace/clases/ManageEspera.php on line 48
+[20-Feb-2016 18:42:42 UTC] PHP Stack trace:
+[20-Feb-2016 18:42:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 18:42:42 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:31
+[20-Feb-2016 18:45:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/ubuntu/workspace/ajax/ajaxListaEspera.php on line 42
+[20-Feb-2016 18:45:39 UTC] PHP Catchable fatal error:  Argument 1 passed to ManageEspera::insert() must be an instance of Espera, null given, called in /home/ubuntu/workspace/ajax/ajaxListaEspera.php on line 31 and defined in /home/ubuntu/workspace/clases/ManageEspera.php on line 48
+[20-Feb-2016 18:45:39 UTC] PHP Stack trace:
+[20-Feb-2016 18:45:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 18:45:39 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:31
+[20-Feb-2016 18:46:55 UTC] PHP Catchable fatal error:  Argument 1 passed to ManageEspera::insert() must be an instance of Espera, null given, called in /home/ubuntu/workspace/ajax/ajaxListaEspera.php on line 31 and defined in /home/ubuntu/workspace/clases/ManageEspera.php on line 48
+[20-Feb-2016 18:46:55 UTC] PHP Stack trace:
+[20-Feb-2016 18:46:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:0
+[20-Feb-2016 18:46:55 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxListaEspera.php:31
+[21-Feb-2016 12:55:31 UTC] PHP Catchable fatal error:  Argument 1 passed to ManageEspera::insert() must be an instance of Espera, instance of Reserva given, called in /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php on line 19 and defined in /home/ubuntu/workspace/clases/ManageEspera.php on line 48
+[21-Feb-2016 12:55:31 UTC] PHP Stack trace:
+[21-Feb-2016 12:55:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php:0
+[21-Feb-2016 12:55:31 UTC] PHP   2. ManageEspera->insert() /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php:19
+[21-Feb-2016 13:26:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php on line 19
+[21-Feb-2016 15:57:58 UTC] PHP Warning:  require_once(../clases/Google/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php on line 33
+[21-Feb-2016 15:57:59 UTC] PHP Stack trace:
+[21-Feb-2016 15:57:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php:0
+[21-Feb-2016 15:57:59 UTC] PHP Fatal error:  require_once(): Failed opening required '../clases/Google/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php on line 33
+[21-Feb-2016 15:57:59 UTC] PHP Stack trace:
+[21-Feb-2016 15:57:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php:0
+[21-Feb-2016 15:58:29 UTC] PHP Warning:  require_once(../clases/Google/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php on line 33
+[21-Feb-2016 15:58:29 UTC] PHP Stack trace:
+[21-Feb-2016 15:58:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php:0
+[21-Feb-2016 15:58:29 UTC] PHP Fatal error:  require_once(): Failed opening required '../clases/Google/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php on line 33
+[21-Feb-2016 15:58:29 UTC] PHP Stack trace:
+[21-Feb-2016 15:58:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php:0
+[21-Feb-2016 16:05:49 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php on line 65
+[21-Feb-2016 16:11:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php on line 81
+[21-Feb-2016 16:29:28 UTC] PHP Fatal error:  Call to undefined function substring() in /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php on line 9
+[21-Feb-2016 16:29:28 UTC] PHP Stack trace:
+[21-Feb-2016 16:29:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php:0
+[21-Feb-2016 16:37:45 UTC] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php on line 10
+[21-Feb-2016 16:37:45 UTC] PHP Stack trace:
+[21-Feb-2016 16:37:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php:0
+[21-Feb-2016 16:37:45 UTC] PHP   2. substr() /home/ubuntu/workspace/ajax/ajaxOcuparhueco.php:10

@@ -1,0 +1,98 @@
+btlogin.addEventListener('click',function(){
+        var procesarRespuesta = function (respuesta) {
+            if (respuesta.login) {
+                divLogin.classList.add("oculto");
+                divPlanificador.classList.remove("oculto");
+                
+            } else {
+                mensajeError.classList.remove("oculto");
+            }
+        };
+        var ajax = new Ajax();
+        var datoLogin = encodeURI(email.value);
+        var datoClave = encodeURI(clave.value);
+        ajax.setUrl("../ajax/ajaxLogin.php?email=" + datoLogin + "&clave=" + datoClave);
+        ajax.setRespuesta(procesarRespuesta);
+        ajax.doPeticion();
+        
+        
+         function crearTabla(dia,hora){
+        if(diainicio==lunes){i=1;}
+        if(diainicio==martes){i=2;}
+        if(diainicio==miercoles){i=3;}
+        if(diainicio==jueves){i=4;}
+        if(diainicio==viernes){i=5;}
+        if(diainicio==sabado){i=6;}
+        if(diainicio==domingo){i=7;}
+        
+        if(hora==1){j=1;}
+        if(hora==2){j=2;}
+        if(hora==3){j=3;}
+        if(hora==4){j=4;}
+        if(hora==5){j=5;}
+        if(hora==6){j=6;}
+        if(hora==7){j=7;}
+        if(hora==8){j=8;}
+        if(hora==9){j=9;}
+        if(hora==10){j=10;}
+        if(hora==10){j=10;}
+        if(hora==10){j=10;}
+        if(hora==10){j=10;
+        if(hora==10){j=10;}
+        if(hora==10){j=10;}
+        if(hora==10){j=10;}
+        if(hora==10){j=10;}
+        if(hora==10){j=10;}
+        if(hora==10){j=10;}
+        if(hora==10){j=10;}
+        if(hora==10){j=10;}
+        if(hora==10){j=10;}
+    }
+        
+      ocupado.classList.remove("oculto");
+               divPlanificador.classList.add("oculto");
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+                       var estaLogueado = function() {
+            var procesarRespuesta = function(respuesta) {
+                if (respuesta.login) {
+                     divLogin.classList.add("oculto");
+                    divPlanificador.classList.remove("oculto");
+                    peticionReservas();;
+                }
+                else{}
+
+                var ajax = new Ajax();
+                ajax.setUrl("ajaxLogueado.php");
+                ajax.setRespuesta(procesarRespuesta);
+                ajax.doPeticion();
+            };};
+            
+                 estaLogueado();
+        

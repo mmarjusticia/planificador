@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'ralewayregular';
+    src: url('fuentes/raleway-regular-webfont.eot');
+    src: url('fuentes/raleway-regular-webfont.eot?#iefix') format('embedded-opentype'), url('fuentes/raleway-regular-webfont.woff2') format('woff2'), url('fuentes/raleway-regular-webfont.woff') format('woff'), url('fuentes/raleway-regular-webfont.ttf') format('truetype'), url('fuentes/raleway-regular-webfont.svg#ralewayregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.oculto {
+    display: none;
+}
+
+#imCabecera {
+    width: 100%;
+}
+
+#divLogin,#divRegistro,#espera,#divMensajeNoEspera,#divMensajeOkEspera,#mensajePropia,#divAdministrador{
+    width: 30%;
+    margin: 0 auto;
+    padding: 4%;
+    color: white;
+}
+
+#contenedor {
+    width: 100%;
+    font-family: ralewayregular;
+    background-color: #040404;
+    color: white;
+}
+#divMensaje {
+    width: 30%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 4%;
+    color:black;
+    border:1px solid red;
+}
+#registrar{margin-top:100px;}
+#btlogin,#btregistro{margin-top:20px;
+        margin-bottom:30px;
+        width:60%;
+        background-color:red;
+        border-color:red;
+        color:white;
+        padding:1%;
+}
+input{margin-top:1.5%;}
+.green {
+    color: green;
+    padding: 2%;
+}
+
+.red {
+    color: red;
+    padding: 2%;
+}
+
+#divPlanificador {
+    width: 70%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+
+#volver{color:black;
+        background-color:red;
+        margin-top:2%;
+}
+
+
+table {
+    margin-top: 50px;
+}
+td,th,tr{padding-top:2%;
+padding-bottom:2%;
+    text-align:center;
+}
+
+.h {
+    text-align: center;
+}

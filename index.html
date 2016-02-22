@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{titulo}</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+       <link rel="stylesheet" href="css/estilo.css">
+       <script src="js/jquery-2.2.0.min.js"> </script>
+    </head>
+    <body>
+        <div id="contenedor">
+            <div id="cabecera"><img src="css/cabeceraPabellon2.jpg" id="imCabecera"/></div>
+           
+
+            
+            <!--capa para el login-->
+            <div id="divLogin">
+                <span >Email :&nbsp;&nbsp;</span><input id="email"type="text" name="email"/><br>
+                <span >Clave :&nbsp;</span> <input id="clave" type="password" name="clave"/><br>
+                <input type="submit" id="btlogin" name="btlogin" value="login"/><br>
+                <a id="registrar" href="#divRegistro">Registrar</a>
+            </div>
+             <!--capa para el registro-->
+            <div id="divRegistro" class="oculto">
+                <span>Email:</span> <input id="emailRegistro" type="text" name="emailRegistro"/><br> 
+                <span>Clave:</span> <input id="claveRegistro" type="password" name="claveRegistro"/><br>
+                 <span>Repita su clave:</span> <input id="claveR" type="password" name="clave"/><br>
+                <input type="submit" id="btregistro" name="btregistro" value="Registrar"/>
+            </div>
+            <!--capa mensaje-->
+            <div id="divMensaje" class="oculto">
+                <span id="mensajeError">Error. inténtelo de nuevo</span><br><br>
+                <a href=# id="volver">Volver a intentar</a>
+            </div>
+            <!--capa administrador-->
+            <div id="divAdministrador" class="oculto">
+                 <a id="resetear" href="#">> Resetear Planificador</a><br>
+                 <a id="listaPrueba"href="#">> Ver lista de reservas</a><br>
+                 <div ><a id="cerrarAdmin" href="#">>Cerrar Sesión</a></div>
+            </div>
+            
+            <!--capa donde se pegara la lista de reservas para que las vea el administrador--->
+            <div id="prueba" class="oculto">
+               
+            </div>
+            
+              <!--capa mensaje reseteada con éxito--->
+              <div id="reseteoOk" class="oculto">
+                  <p>La tabla se ha reseteado con éxito</p>
+                  <a id="volverZA" href="#">> Volver </a>
+              </div>
+            
+              <!--capa listaEspera--->
+              <div id="espera" class="oculto">
+                  <p>Lo siento este hueco está ocupado.<br> Pulse "esperar" si desea entrar en la lista de espera por si el hueco quedase libre.</p>
+                  <a href="#" id="listaEspera">> Esperar</a><br> <a id="volverPlanificador" href="#">> Volver al planificador</a>
+              </div>
+            <!--capa agenda--->
+            <div id="divPlanificador" class="oculto">
+                <div ><a id="cerrar" href="#">Cerrar Sesión</a></div>
+                <table border="1">
+                   <caption></caption>
+                    <thead>
+                        <th></th>
+                        <th>LUNES</th>
+                        <th>MARTES</th>
+                        <th>MIERCOLES</th>
+                        <th>JUEVES</th>
+                        <th>VIERNES</th>
+                        <th>SÁBADO</th>
+                        <th>DOMINGO</th>
+                         
+                   </thead>
+                   <tr>
+                       <td>8h</td>
+                         <td><a href="#" id="l08" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m08" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x08" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j08" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v08" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s08" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d08" class="dia green">Disponible</a></td>
+                   </tr>
+                   <tr>
+                         <td>9h</td>
+                        <td><a href="#" id="l09" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m09" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x09" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j09" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v09" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s09" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d09" class="dia green">Disponible</a></td>
+                   </tr>
+                   <tr>
+                        <td>10h</td>
+                       <td><a href="#" id="l10" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m10" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x10" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j10" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v10" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s10" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d10" class="dia green">Disponible</a></td>
+                   </tr>
+                   <tr>
+                       <td>11h</td>
+                      <td><a href="#" id="l11" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m11" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x11" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j11" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v11" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s11" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d11" class="dia green">Disponible</a></td>
+                   </tr>
+                   <tr>
+                        <td>12h</td>
+                        <td><a href="#" id="l12" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m12" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x12" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j12" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v12" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s12" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d12" class="dia green">Disponible</a></td>
+                   </tr>
+                   <tr>
+                        <td>13h</td>
+                        <td><a href="#" id="l13" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m13"  class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x13"  class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j13"  class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v13"  class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s13"  class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d13"  class="dia green">Disponible</a></td>
+                   </tr>
+                   <tr>
+                        <td>14h</td>
+                        <td><a href="#" id="l14" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m14" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x14" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j14" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v14" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s14" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d14" class="dia green">Disponible</a></td>
+                   </tr>
+                   <tr>
+                        <td>15h</td>
+                        <td><a href="#" id="l15" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m15" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x15" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j15" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v15" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s15" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d15" class="dia green">Disponible</a></td>
+                   </tr>
+                   <tr>
+                        <td>16h</td>
+                        <td><a href="#" id="l16" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m16" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x16" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j16" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v16" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s16" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d16" class="dia green">Disponible</a></td>
+                   </tr>
+                   <tr>
+                        <td>17h</td>
+                      <td><a href="#" id="l17" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m17" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x17" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j17" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v17" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s17" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d17" class="dia green">Disponible</a></td>
+                   </tr>
+                   <tr>
+                        <td>18h</td>
+                      <td><a href="#" id="l18" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m18" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x18" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j18" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v18" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s18" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d18" class="dia green">Disponible</a></td>
+                   </tr>
+                   <tr>
+                        <td>19h</td>
+                       <td><a href="#" id="l19" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m19" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x19" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j19" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v19" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s19" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d19" class="dia green">Disponible</a></td>
+                   </tr>
+                   <tr>
+                        <td>20h</td>
+                      <td><a href="#" id="l20" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m20" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x20" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j20" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v20" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s20" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d20" class="dia green">Disponible</a></td>
+                   </tr>
+                   <tr>
+                        <td>21h</td>
+                       <td><a href="#" id="l21" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m21" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x21" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j21" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v21" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s21" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d21" class="dia green">Disponible</a></td>
+                   </tr>
+                   <tr>
+                        <td>22h</td>
+                        <td><a href="#" id="l22" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="m22" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="x22" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="j22" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="v22" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="s22" class="dia green">Disponible</a></td>
+                       <td><a href="#" id="d22" class="dia green">Disponible</a></td>
+                   </tr>
+ 
+  </table> 
+    
+  </div>
+  <!----MENSAJE LISTA DE ESPERA OK------>
+  <div id="divMensajeOkEspera" class="oculto">
+      <p>Ha sido guardado en la base de espera</p><br>
+        <a id="volverOk" href="#">> Volver al planificador</a>
+      
+  </div>
+  <div id="mensajePropia" class="oculto">
+      <p>Acaba de cancelar su reserva,no se preocupe si el hueco sigue marcado como OCUPADO ya que este hueco será ocupado automáticamente por la persona que esté en la lista de espera.</p>
+       <a id="volverPropia" href="#">> Volver al planificador</a>
+  </div>
+  <!----MENSAJE LISTA DE ESPERA NO------>
+  <div id="divMensajeNoEspera" class="oculto">
+      <p>Ya fue almacenado en la lista de espera anteriormente.</p><br>
+        <a id="volverNo" href="#">> Volver al planificador</a>
+      
+  </div>
+  
+   <!---CREAR TABLA--
+           <div id="crearTabla">
+               <form>
+                  <span>Marque el día por el cual quiere que empieze la semana</span><br>
+                  Lunes <input type="radio" name="diaInicio" checked="checked" value="1"/><br>
+                  Martes <input type="radio" name="diaInicio" value="2"/><br>
+                  Miércoles <input type="radio" name="diaInicio" value="3"/><br>
+                  Jueves <input type="radio" name="diaInicio" value="4"/><br>
+                  Viernes <input type="radio" name="diaInicio" value="5"/><br>
+                  Sábado <input type="radio" name="diaInicio" value="6"/><br>
+                  Domingo <input type="radio" name="diaInicio" value="7"/><br>
+                  <span>Marque el día por el cual quiere que acabe la semana</span><br>
+                  Lunes <input type="radio" name="diaFin" value="1"/><br>
+                  Martes <input type="radio" name="diaFin" value="2"/><br>
+                  Miércoles <input type="radio" name="diaFin" value="3"/><br>
+                  Jueves <input type="radio" name="diaFin" value="4"/><br>
+                  Viernes <input type="radio" name="diaFin" checked="checked" value="5"/><br>
+                  Sábado <input type="radio" name="diaFin" value="6"/><br>
+                  Domingo <input type="radio" name="diaFin" value="7"/><br>
+                    <span>Marque la hora por la quiere que empiece su horario</span><br>
+                   8h<input type="radio" name="horaInicio" checked="checked" value="1"/><br>
+                   9h<input type="radio" name="horaInicio" value="2"/><br>
+                   10h<input type="radio" name="horaInicio" value="3"/><br>
+                   11h<input type="radio" name="horaInicio" value="4"/><br>
+                   12h<input type="radio" name="horaInicio" value="5"/><br>
+                   13h<input type="radio" name="horaInicio" value="6"/><br>
+                   14h<input type="radio" name="horaInicio" value="7"/><br>
+                   15h<input type="radio" name="horaInicio" value="8"/><br>
+                   16h<input type="radio" name="horaInicio" value="9"/><br>
+                   17h<input type="radio" name="horaInicio" value="10"/><br>
+                   18h<input type="radio" name="horaInicio" value="11"/><br>
+                   19h<input type="radio" name="horaInicio" value="12"/><br>
+                   20h<input type="radio" name="horaInicio" value="13"/><br>
+                   21h<input type="radio" name="horaInicio" value="14"/><br>
+                   22h<input type="radio" name="horaInicio" value="15"/><br>
+                     <span>Marque la hora por la quiere que acabe su horario</span><br>
+                   8h<input type="radio" name="horaFin" value="1"/><br>
+                   9h<input type="radio" name="horaFin" value="2"/><br>
+                   10h<input type="radio" name="horaFin" value="3"/><br>
+                   11h<input type="radio" name="horaFin" value="4"/><br>
+                   12h<input type="radio" name="horaFin" value="5"/><br>
+                   13h<input type="radio" name="horaFin" value="6"/><br>
+                   14h<input type="radio" name="horaFin" value="7"/><br>
+                   15h<input type="radio" name="horaFin" value="8"/><br>
+                   16h<input type="radio" name="horaFin" value="9"/><br>
+                   17h<input type="radio" name="horaFin" value="10"/><br>
+                   18h<input type="radio" name="horaFin" value="11"/><br>
+                   19h<input type="radio" name="horaFin" value="12"/><br>
+                   20h<input type="radio" name="horaFin" value="13"/><br>
+                   21h<input type="radio" name="horaFin" value="14"/><br>
+                   22h<input type="radio" name="horaFin" checked="checked" value="15"/><br>
+                   <input type="button" name="btCrear" value="Crear Horario"/>
+            </form>   
+           </div>-->
+  
+  
+ 
+            
+        </div>
+        <script type="text/javascript" src="js/ajax.js"></script>
+        <script type="text/javascript" src="js/codigo.js"></script>
+    </body>
+</html>
